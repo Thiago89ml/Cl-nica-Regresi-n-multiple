@@ -1,1 +1,0 @@
-# Cl-nica-Regresi-n-multiple

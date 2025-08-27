@@ -1,0 +1,9 @@
+Las variables con mayor influencia son IMB,Glucose y Age.
+
+Si una persona tiene un IMC (Índice de Masa Corporal) de entre 18 y 25, una glucosa de 140 mg/dL y alrededor de 40 años, la probabilidad de que padezca diabetes es aproximadamente del 40%.
+
+Si una persona tiene un IMC de 30, una glucosa de 140 mg/dL y más de 50 años, la probabilidad de que padezca diabetes es ligeramente superior al 50%.
+
+En el caso de una persona con una edad muy avanzada (80 años), un IMC de entre 30 y 35, y una glucosa elevada de 120 mg/dL, la probabilidad de que tenga diabetes es del 74%, un valor significativo a tener en cuenta. En este caso, el factor más influyente fue la edad.
+
+Si repetimos los datos del caso anterior, pero con una edad de 90 años (el máximo estándar de longevidad para un individuo), la probabilidad de que tenga diabetes aumenta a un 80%.
